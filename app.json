@@ -1,6 +1,6 @@
 {
-	"name": "Heroku aria2c",
-	"description": "Run aria2c on heroku",
+	"name": "a",
+	"description": "Ru",
 	"repository": "https://github.com/Ecalose/aria2-h",
 	"keywords": ["aria2c"],
 	"env": {
